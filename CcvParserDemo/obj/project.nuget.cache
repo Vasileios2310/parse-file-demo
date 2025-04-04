@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Hx8eA9KmcI=",
+  "success": true,
+  "projectFilePath": "/Users/vasiliskr/7.C# .NET/CcvParserDemo/CcvParserDemo/CcvParserDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/vasiliskr/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
